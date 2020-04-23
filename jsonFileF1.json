@@ -1,0 +1,28 @@
+{
+  "Teams": [
+    {
+      "name": "Mercedes",
+      "nationality": "Germany"
+    },
+    {
+      "name": "Scuderia Ferrari",
+      "nationality": "Italy"
+    },
+    {
+      "name": "Red Bull Racing",
+      "nationality": "Austria"
+    },
+    {
+      "name": "McLaren",
+      "nationality": "United Kingdom"
+    },
+    {
+      "name": "Renault",
+      "nationality": "France"
+    },
+    {
+      "name": "Alpha Tauri",
+      "nationality": "Italy"
+    }
+  ]
+}
