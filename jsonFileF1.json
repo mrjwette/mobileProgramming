@@ -6,7 +6,7 @@
       "base": "Brackley, United Kingdom",
       "driver 1": "Lewis Hamilton",
       "driver 2": "Valtteri Bottas",
-      "logo": "mercedes.jpg"
+      "logo": "mercedes"
     },
     {
       "name": "Scuderia Ferrari",
@@ -14,7 +14,7 @@
       "base": "Maranello, Italy",
       "driver 1": "Sebastian Vettel",
       "driver 2": "Charles Leclerc",
-      "logo": "ferrari.jpg"
+      "logo": "ferrari"
     },
     {
       "name": "Red Bull Racing",
@@ -22,7 +22,7 @@
       "base": "Milton Keynes, United Kingdom",
       "driver 1": "Max Verstappen",
       "driver 2": "Alexander Albon",
-      "logo": "redbull.jpg"
+      "logo": "redbull"
     },
     {
       "name": "McLaren",
@@ -30,7 +30,7 @@
       "base": "Woking, United Kingdom",
       "driver 1": "Carlos Sainz",
       "driver 2": "Lando Norris",
-      "logo": "mclaren.jpg"
+      "logo": "mclaren"
     },
     {
       "name": "Renault",
@@ -38,7 +38,7 @@
       "base": "Enstone, United Kingdom",
       "driver 1": "Daniel Ricciardo",
       "driver 2": "Esteban Ocon",
-      "logo": "renault.jpg"
+      "logo": "renault"
     },
     {
       "name": "Alpha Tauri",
@@ -46,7 +46,7 @@
       "base": "Faenza, Italy",
       "driver 1": "Pierre Gasly",
       "driver 2": "Daniil Kvyat",
-      "logo": "alphatauri.jpg"
+      "logo": "alphatauri"
     }
   ]
 }
