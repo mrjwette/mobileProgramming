@@ -1,0 +1,52 @@
+{
+  "Teams": [
+    {
+      "name": "Mercedes",
+      "full name": "Mercedes-AMG Petronas F1 Team",
+      "base": "Brackley, United Kingdom",
+      "driver 1": "Lewis Hamilton",
+      "driver 2": "Valtteri Bottas",
+      "logo": "mercedes"
+    },
+    {
+      "name": "Scuderia Ferrari",
+      "full name": "Scuderia Ferrari Mission Winnow",
+      "base": "Maranello, Italy",
+      "driver 1": "Sebastian Vettel",
+      "driver 2": "Charles Leclerc",
+      "logo": "ferrari"
+    },
+    {
+      "name": "Red Bull Racing",
+      "full name": "Aston Martin Red Bull Racing",
+      "base": "Milton Keynes, United Kingdom",
+      "driver 1": "Max Verstappen",
+      "driver 2": "Alexander Albon",
+      "logo": "redbull"
+    },
+    {
+      "name": "McLaren",
+      "full name": "McLaren F1 Team",
+      "base": "Woking, United Kingdom",
+      "driver 1": "Carlos Sainz",
+      "driver 2": "Lando Norris",
+      "logo": "mclaren"
+    },
+    {
+      "name": "Renault",
+      "full name": "Renault DP World F1 Team",
+      "base": "Enstone, United Kingdom",
+      "driver 1": "Daniel Ricciardo",
+      "driver 2": "Esteban Ocon",
+      "logo": "renault"
+    },
+    {
+      "name": "Alpha Tauri",
+      "full name": "Scuderia AlphaTauri Honda",
+      "base": "Faenza, Italy",
+      "driver 1": "Pierre Gasly",
+      "driver 2": "Daniil Kvyat",
+      "logo": "alphatauri"
+    }
+  ]
+}
